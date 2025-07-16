@@ -1,0 +1,51 @@
+# Fichiers et dossiers générés par VS Code
+.vscode/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Node.js modules (si tu utilises Node.js)
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environnement
+.env
+.env.local
+.env.*.local
+
+# Build / Distribution
+dist/
+build/
+out/
+
+# Mac OS spécifiques
+.DS_Store
+
+# Windows spécifiques
+Thumbs.db
+ehthumbs.db
+
+# Autres fichiers temporaires
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Coverage (ex: tests)
+coverage/
+
+# Fichiers typescript générés
+*.tsbuildinfo
+
+# IDE et éditeurs divers<
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
